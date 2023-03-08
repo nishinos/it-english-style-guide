@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # タイトルと見出し
@@ -79,7 +82,7 @@ sidebar_position: 1
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideとMicrosoft Style Guideでは、タイトルや見出しに「センテンス・スタイル」を用いるとしています。一方、Red Hat Technical Writing Style Guideでは「タイトル・スタイル」としています。
+GoogleとMicrosoftでは、タイトルや見出しに「センテンス・スタイル」を用いるとしています。一方、Red Hatでは「タイトル・スタイル」としています。
 
 前述のように、本スタイルガイドでは「センテンス・スタイル」とします。
 

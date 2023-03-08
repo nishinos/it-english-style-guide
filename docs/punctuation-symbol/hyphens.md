@@ -1,5 +1,8 @@
 ---
 sidebar_position: 9
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # ハイフン（-）
@@ -40,9 +43,9 @@ sidebar_position: 9
 
 **例3**
 
-> The range of values is -90 degrees to 90 degrees.
+> The latitude bounds must range between -90 to 90 degrees inclusive, and the longitude bounds must range between -180 to 180 degrees inclusive.
 >
-> （引用元：[Android Developers](https://developer.android.com/guide/topics/sensors/sensors_position)、2023-02-16閲覧）
+> （引用元：[Google Cloud](https://cloud.google.com/java/docs/reference/proto-google-common-protos/latest/com.google.geo.type.Viewport)、2023-02-24閲覧）
 
 ## ハイフンに使う文字
 
@@ -52,7 +55,7 @@ sidebar_position: 9
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoft Style Guideでは、範囲（およびマイナス記号）を示すのにenダッシュを使用するとしています。
+Googleでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoftでは、範囲（およびマイナス記号）を示すのにenダッシュを使用するとしています。
 
 前述のように、本スタイルガイドでは範囲にハイフンを使用します。
 

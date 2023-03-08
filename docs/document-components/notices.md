@@ -1,5 +1,8 @@
 ---
 sidebar_position: 5
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # 注意書き
@@ -42,7 +45,7 @@ sidebar_position: 5
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideでは、Note、Caution、Warningの他に「Success」も定義しています。インタラクティブなコンテンツで操作が成功したときの表示です。また、Red Hat Technical Writing Style Guideでは、NoteとWarningの他に「Important」 を定義しています。重要な情報を読者が見落とさないようにする注意喚起です。
+Googleでは、Note、Caution、Warningの他に「Success」も定義しています。インタラクティブなコンテンツで操作が成功したときの表示です。また、Red Hatでは、NoteとWarningの他に「Important」 を定義しています。重要な情報を読者が見落とさないようにする注意喚起です。
 
 ## 関連資料
 

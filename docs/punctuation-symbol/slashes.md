@@ -1,5 +1,8 @@
 ---
 sidebar_position: 10
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # スラッシュ（/）
@@ -19,9 +22,9 @@ sidebar_position: 10
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideとRed Hat Technical Writing Style Guideでは、「または」を示すのにスラッシュではなくorを使うとしています。またGoogleでは分数（例：3/4）や省略（例：w/）を表すのにもスラッシュを使わないとしています。
+GoogleとRed Hatでは、「または」を示すのにスラッシュではなくorを使うとしています。またGoogleでは分数（例：3/4）や省略（例：w/）を表すのにもスラッシュを使わないとしています。
 
-Microsoft Style Guideでは、組み合わせ（例：Country/Region）や分数（例：a/x）で使うとしています。「または」を表すorの代わりとしては使わないとしていますが、スペースが限られている場合は「country/region」などは可としています。
+Microsoftでは、組み合わせ（例：Country/Region）や分数（例：a/x）で使うとしています。「または」を表すorの代わりとしては使わないとしていますが、スペースが限られている場合は「country/region」などは可としています。
 
 ## 関連資料
 

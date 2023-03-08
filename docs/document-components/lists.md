@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # リスト
@@ -8,7 +11,7 @@ sidebar_position: 3
 
 ## リストを使う場面
 
-リストは、項目を2つ以上列挙する場合に使います。ある項目にさまざまな属性や情報が含まれるときは[表](table.md)の使用を検討します。
+リストは、項目を2つ以上列挙する場合に使います。ある項目にさまざまな属性や情報が含まれるときは[表](tables.md)の使用を検討します。
 
 ## リストの種類
 
@@ -78,7 +81,7 @@ sidebar_position: 3
 
 リストの前に導入文を書く場合、ピリオドで終わる文にすることも、コロンで終わる文（例1）にすることもできます。通常、コロンは直後にリストが置かれる場合に使います。
 
-コロンは例1のように「following」や「as follows」といった言葉と一緒に用いられることがよくあります。コロンの使い方については[こちら](../punctuation-symbol/colon.md)をご覧ください。
+コロンは例1のように「following」や「as follows」といった言葉と一緒に用いられることがよくあります。コロンの使い方については[こちら](../punctuation-symbol/colons.md)をご覧ください。
 
 ### 避ける書き方
 
@@ -93,7 +96,7 @@ sidebar_position: 3
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideとRed Hat Technical Writing Style Guideでは、例5のように導入部分と項目が合わさって完全な文になるような書き方は避けるとしています。一方でMicrosoft Style Guideではそのような書き方を例示しています。
+GoogleとRed Hatでは、例5のように導入部分と項目が合わさって完全な文になるような書き方は避けるとしています。一方でMicrosoftではそのような書き方を例示しています。
 
 本スタイルガイドでは、そのような書き方は避ける方針としています。
 

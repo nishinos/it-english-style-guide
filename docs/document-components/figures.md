@@ -1,5 +1,8 @@
 ---
 sidebar_position: 4
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # 図
@@ -10,7 +13,7 @@ sidebar_position: 4
 
 図の前に導入文を書く場合、ピリオドで終わる文にすることも、コロンで終わる文にすることもできます。通常、コロンは直後に図が置かれる場合に使います。
 
-コロンの使い方については[こちら](../punctuation-symbol/colon.md)をご覧ください。
+コロンの使い方については[こちら](../punctuation-symbol/colons.md)をご覧ください。
 
 ## キャプションの書き方
 

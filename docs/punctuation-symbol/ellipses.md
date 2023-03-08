@@ -1,5 +1,8 @@
 ---
 sidebar_position: 7
+last_update:
+  date: 2023-03-08
+  author: 西野 竜太郎
 ---
 
 # エリプシス（...）
@@ -45,7 +48,7 @@ android {
 
 ## 主要ITスタイルガイド間の相違
 
-Google developer documentation style guideでは、エリプシスをピリオド3つ（...）としています。一方、Microsoft Style Guideはエリプシスを三点リーダー（…）で例示しています。
+Googleでは、エリプシスをピリオド3つ（...）としています。一方、Microsoftはエリプシスを三点リーダー（…）で例示しています。
 
 前述のように、本スタイルガイドでは、どちらを使ってもよいが同じプロジェクト内や文書内では統一するとしています。
 
