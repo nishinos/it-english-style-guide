@@ -1,6 +1,6 @@
 # IT English Style Guide / IT英語スタイルガイド
 
-## About
+![](static/img/social-card.jpg)
 
 The IT English Style Guide is an English style guide for Japanese natives. This style guide is intended to be used by IT professionals a set of writing standards when they write IT-related documents.
 
