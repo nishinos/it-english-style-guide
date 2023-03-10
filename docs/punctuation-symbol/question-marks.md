@@ -22,4 +22,4 @@ last_update:
 ## 関連資料
 
 - Microsoft Style Guide
-    - [Question marks](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/question-marks)
+    - [Question marks](https://learn.microsoft.com/en-us/style-guide/punctuation/question-marks)

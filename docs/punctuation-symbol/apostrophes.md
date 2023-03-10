@@ -17,7 +17,7 @@ last_update:
 
 語句が短縮されていることを示します。例1の場合、「don't」（do not）と「isn't」（is not）です。
 
-「★短縮★」のページも参照してください。
+「[短縮形](../it-specific-writing/contractions.md)」のページも参照してください。
 
 **例1**
 
@@ -63,7 +63,7 @@ last_update:
     - [Contractions](https://developers.google.com/style/contractions)
     - [Possessives](https://developers.google.com/style/possessives)
 - Microsoft Style Guide
-    - [Apostrophes](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/apostrophes)
+    - [Apostrophes](https://learn.microsoft.com/en-us/style-guide/punctuation/apostrophes)
     - [Use contractions](https://learn.microsoft.com/en-us/style-guide/word-choice/use-contractions)
 - Red Hat Technical Writing Style Guide
     - [⁠2.8.6. Apostrophes](https://stylepedia.net/style/6.0/#apostrophes)

@@ -5,16 +5,18 @@ last_update:
   author: 西野 竜太郎
 ---
 
-# 注意する言葉
+# E. 注意する言葉
 
-注意して使う言葉や表記で迷いがちな言葉を取り上げます。
+注意して使う言葉や表記で迷いがちな言葉を取り上げています。
 
-下記の4社の英語スタイルガイドを参考にしています。また、そういったスタイルガイドとの違いがある場合、その旨も記載しています。
+大手ITスタイルガイド（Google、Microsoft、Red Hat、Apple）との違いがある場合、その旨を記載しています。
 
-- [Google developer documentation style guide](https://developers.google.com/style/?hl=en)
-- [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
-- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.0/)
-- [Apple Style Guide](https://support.apple.com/ja-jp/guide/applestyleguide/welcome/1.0/web)
+:::info ポイントまとめ
+
+- スペルはアメリカ式を優先
+- blacklist、whitelist、slaveは使わない
+
+:::
 
 ## A
 

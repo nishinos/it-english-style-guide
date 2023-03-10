@@ -9,7 +9,15 @@ last_update:
 
 マニュアルなどに頻出する手順や指示の書き方です。
 
-## 複数手順の書き方
+:::info ポイントまとめ
+
+- ステップが複数なら番号リスト、単一なら中黒リストを使う
+- 指示文にpleaseは不要
+- 指示文では、場所、目的、条件を前に出す
+
+:::
+
+## 複数ステップの手順の書き方
 
 ステップが複数ある手順は、番号リストを使って書きます。番号リストについては「[番号リスト](../document-components/lists.md#番号リスト)」のセクションも参照してください。
 
@@ -57,7 +65,7 @@ last_update:
 > （引用元：[Android Developers](https://developer.android.com/guide/topics/ui/accessibility/testing)、2023-02-28閲覧）
 
 
-## 単一手順の書き方
+## 単一ステップの手順の書き方
 
 中黒リストを1つだけ使って書きます。
 
@@ -92,17 +100,20 @@ last_update:
 
 ### 場所、目的、条件を先に
 
-指示文を書く場合、場所、目的、条件を表す部分（副詞句や副詞節）を前に出します。上に挙げたサンプルで該当する部分を再掲します。
+指示文を書く場合、場所、目的、条件を表す部分（副詞句や副詞節）があれば前に出します。前に出すことで、読者には次のようなメリットがあります。
 
-- 場所
-    - 例4：In your Cloud project, turn on the Google Chat API.
-    - 「In」の副詞句。どこで操作をすればよいのかが明確になる
-- 目的
-    - 例1：To embed a web app into a new Sites page, follow these steps:
-    - 「To」の副詞句。何のための手順なのかがはっきりする
-- 条件
-    - 例5：If you selected **External** for user type, add test users:
-    - 「If」の副詞節。条件に合致しなければ操作をしなくてよい
+- 場所：どこで操作をすればよいのかがまず分かる
+- 目的：何のための手順なのかがはっきりする
+- 条件：状況や希望に合致しなければ操作しなくてよい
+
+上記のサンプルのうち、該当する部分を再掲します。
+
+- 場所：例4の「In ...」
+    - In your Cloud project, turn on the Google Chat API.
+- 目的：例1の「To embed ...」
+    - To embed a web app into a new Sites page, follow these steps:
+- 条件：例5の「If ...」
+    - If you selected **External** for user type, add test users:
 
 ## 関連資料
 

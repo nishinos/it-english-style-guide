@@ -27,7 +27,7 @@ last_update:
 
 ### 略語
 
-「etc.」や「Mr.」など一部の略語に使います。ただし「US」（米国）や「AM」（午前）などには付けません。
+「Mr.」や「etc.」など一部の略語に使います。「US」（米国）や「AM」（午前）など付けないケースもあります。
 
 **例2**
 
@@ -35,7 +35,7 @@ last_update:
 >
 > （引用元：[Google Developers](https://developers.google.com/apps-script/reference/gmail/gmail-thread)、2023-02-15閲覧）
 
-なお、例2にあるように、「etc.」がカンマの前に来る場合にピリオドは省略しません。ただし文末に来る場合にピリオドは不要です（「etc..」としない）。
+なお、例2にあるように「etc.」がカンマの前に来る場合にピリオドは省略しませんが、文末に来る場合にピリオドは不要です（「etc..」としない）。ただし「etc.」の使用は推奨されません（[参考](../word-list.md#etc)）。
 
 ### その他
 
@@ -46,4 +46,4 @@ last_update:
 - Google developer documentation style guide
     - [Periods](https://developers.google.com/style/periods)
 - Microsoft Style Guide
-    - [Periods](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/periods)
+    - [Periods](https://learn.microsoft.com/en-us/style-guide/punctuation/periods)

@@ -1,41 +1,30 @@
+# About
+
+The IT English Style Guide is an English style guide for Japanese natives. This style guide is intended to be used by IT professionals a set of writing standards when they write IT-related documents.
+
+「IT英語スタイルガイド」は、日本語ネイティブ向けの英語スタイルガイドです。ITプロフェッショナルが英語ドキュメントを書く際に、表記基準として参照してもらうことを目的としています。
+
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Visit [https://styleguide.progeigo.org](https://styleguide.progeigo.org) for the generated website.
 
-### Installation
+生成後のウェブサイトは、[https://styleguide.progeigo.org](https://styleguide.progeigo.org) をご覧ください。
 
-```
-$ yarn
-```
+# Corrections and proposals
 
-### Local Development
+For corrections and proposals about the content, create an issue at GitHub or send a message from [the feedback form](https://progeigo.org/contact/feedback/). Note that not all proposals will be implemented.
 
-```
-$ yarn start
-```
+本コンテンツの修正や提案については、GitHubでイシューを作成するか、[フィードバック用フォーム](https://progeigo.org/contact/feedback/)からメッセージを送ってください。すべての提案が実装されるわけではない点をご了承ください。
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+# License
 
-### Build
+The content (under `docs` directory) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). If you need other license, contact the copyright owner.
 
-```
-$ yarn build
-```
+本コンテンツ（`docs`ディレクトリー下）は、[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)ライセンスで提供されています。他のライセンスが必要な場合、著作権者にご連絡ください。
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+# Site generator
 
-Using SSH:
+This website is built using [Docusaurus](https://docusaurus.io/).
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+本ウェブサイトは[Docusaurus](https://docusaurus.io/)で構築しています。

@@ -58,6 +58,6 @@ enダッシュとハイフンの使い分けは、スタイルガイドで異な
 - Google developer documentation style guide
     - [Dashes](https://developers.google.com/style/dashes)
 - Microsoft Style Guide
-    - [Dashes and hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/dashes-hyphens/)
-    - [Em dashes](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/dashes-hyphens/emes)
-    - [En dashes](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/dashes-hyphens/enes)
+    - [Dashes and hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/)
+    - [Em dashes](https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/emes)
+    - [En dashes](https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/enes)

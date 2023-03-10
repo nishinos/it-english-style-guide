@@ -27,7 +27,7 @@ last_update:
 
 例1では「HTML」、「CSS」、「client-side JavaScript」の3つが並べられており、andの直前にカンマが置かれています。項目を3つ以上並べた後、andやorの直前に入れるカンマは「オックスフォード・カンマ」と呼ばれます。
 
-オックスフォード・カンマは入れるようにします。オックスフォード・カンマを入れない書き方もありますが、関連資料のGoogle、Microsoft、Red Hatではすべて入れる方針が採用されています。
+オックスフォード・カンマは入れるようにします。オックスフォード・カンマを入れない書き方もありますが、関連資料に挙げたGoogle、Microsoft、Red Hatではすべて入れる方針が採用されています。
 
 ### 接続詞で節同士をつないだとき
 
@@ -85,13 +85,13 @@ last_update:
 
 ### その他
 
-カンマは数字の桁区切りや日付にも用いられます。詳しくは★数字★と[日付](../standard-information/dates-times.md)の項目をご覧ください。
+カンマは数字の桁区切りや日付にも用いられます。詳しくは[数](../standard-information/numbers.md#桁区切りと小数点)と[日付](../standard-information/dates-times.md)の項目をご覧ください。
 
 ## 関連資料
 
 - Google developer documentation style guide
     - [Commas](https://developers.google.com/style/commas)
 - Microsoft Style Guide
-    - [Commas](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/commas)
+    - [Commas](https://learn.microsoft.com/en-us/style-guide/punctuation/commas)
 - Red Hat Technical Writing Style Guide
     - [⁠2.8.2. Commas](https://stylepedia.net/style/6.0/#commas)

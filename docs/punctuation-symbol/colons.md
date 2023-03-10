@@ -28,7 +28,7 @@ last_update:
 > 
 > （引用元：[Android Developers](https://developer.android.com/guide/components/fundamentals)、2023-02-13閲覧）
 
-導入文のコロンでは「as follows」（例2）や「following」（例3）という言葉がよく一緒に用いられます。
+導入文のコロンでは「as follows」（例2）や「following」（例3）という言葉がよく一緒に用いられます。「[following](../word-list.md#following)」の項目も参照してください。
 
 **例2**
 
@@ -77,6 +77,6 @@ last_update:
 - Google developer documentation style guide
     - [Colons](https://developers.google.com/style/colons)
 - Microsoft Style Guide
-    - [Colons](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/colons)
+    - [Colons](https://learn.microsoft.com/en-us/style-guide/punctuation/colons)
 - Red Hat Technical Writing Style Guide
     - [2.8.1. Colons and Semicolons](https://stylepedia.net/style/6.0/#colons-and-semicolons)

@@ -57,4 +57,4 @@ Googleでは、エリプシスをピリオド3つ（...）としています。�
 - Google developer documentation style guide
     - [Ellipses](https://developers.google.com/style/ellipses)
 - Microsoft Style Guide
-    - [Ellipses](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/ellipses)
+    - [Ellipses](https://learn.microsoft.com/en-us/style-guide/punctuation/ellipses)

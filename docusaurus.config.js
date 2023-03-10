@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'IT英語スタイルガイド',
-  tagline: '表記に迷ったときに',
+  tagline: '日本語ネイティブのためのIT英語表記ハンドブック',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://styleguide.progeigo.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -41,8 +41,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-//          editUrl:
-//            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -50,8 +48,6 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-//          editUrl:
-//            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'IT英語スタイルガイド',
         logo: {
@@ -78,10 +74,10 @@ const config = {
             position: 'left',
             label: 'スタイルガイド',
           },
-          {to: '/blog', label: 'ブログ', position: 'left'},
+          {to: '/blog', label: 'お知らせ', position: 'left'},
           {
-            href: 'https://github.com/nishinos',
-            label: 'GitHub',
+            href: 'https://progeigo.org/',
+            label: 'プログラミング英語検定サイト',
             position: 'right',
           },
         ],
@@ -90,14 +86,28 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'リンク',
+            items: [
+              {
+                label: 'GitHubページ',
+                href: 'https://github.com/nishinos/it-english-style-guide',
+              },
+            ],
+          },
+          {
             title: 'ソーシャル',
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/nishinos',
+                href: 'https://twitter.com/progeigo',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/c/progeigo',
               },
             ],
           },
+
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Globalization Design Institute, LLC`,
       },

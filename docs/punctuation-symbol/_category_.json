@@ -1,8 +1,8 @@
 {
-  "label": "句読点と記号",
+  "label": "B. 句読点と記号",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "句読点と記号の説明です。"
+    "description": "句読点と記号の使い方です。"
   }
 }

@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            スタイルガイドを見る 👀
+            開く 📖
           </Link>
         </div>
       </div>
@@ -30,11 +30,22 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="An English style guide for Japanese natives.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          paddingTop: '2rem',
+          paddingBottom: '1rem',
+          paddingLeft: '2rem',
+          paddingRight: '2rem',
+        }}>
+          <p>本スタイルガイドは「プログラミング英語検定」のウェブサイト上で提供されています。</p>
+        </div>
       </main>
     </Layout>
   );

@@ -1,8 +1,8 @@
 {
-  "label": "文書要素",
+  "label": "A. ドキュメント要素",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "文書要素の説明です。"
+    "description": "ドキュメントを構成する要素の書き方です。"
   }
 }

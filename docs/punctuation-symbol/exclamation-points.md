@@ -24,6 +24,6 @@ last_update:
 - Google developer documentation style guide
     - [Exclamation points](https://developers.google.com/style/exclamation-points)
 - Microsoft Style Guide
-    - [Exclamation points](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/exclamation-points)
+    - [Exclamation points](https://learn.microsoft.com/en-us/style-guide/punctuation/exclamation-points)
 - Red Hat Technical Writing Style Guide
     - [⁠2.8.7. Exclamation Points](https://stylepedia.net/style/6.0/#exclamation)

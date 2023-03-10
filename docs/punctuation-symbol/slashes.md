@@ -11,7 +11,7 @@ last_update:
 
 ## スラッシュを使う場面
 
-一般的にスラッシュは「または」や「および」を表します。しかし意味があいまいになりがちなので、可能な限り明示的にorやandを使います。
+一般的にスラッシュは「または」や「および」を表します。しかし意味があいまいになりがちなので、できるだけ明示的にorやandを使います。
 
 ただし、次のようなケースでの使用は問題ありません。
 
@@ -31,6 +31,6 @@ Microsoftでは、組み合わせ（例：Country/Region）や分数（例：a/x
 - Google developer documentation style guide
     - [Slashes](https://developers.google.com/style/slashes)
 - Microsoft Style Guide
-    - [Slashes](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/slashes)
+    - [Slashes](https://learn.microsoft.com/en-us/style-guide/punctuation/slashes)
 - Red Hat Technical Writing Style Guide
     - [⁠2.8.4. Slashes](https://stylepedia.net/style/6.0/#slashes)

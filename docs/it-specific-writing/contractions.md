@@ -21,7 +21,7 @@ last_update:
 >
 > （引用元：[Android Developers](https://developer.android.com/codelabs/advanced-android-kotlin-training-notifications#3)、2023-03-01閲覧）
 
-次の例2は使用許諾契約の中の一文です。短縮形は使われていません。
+次の例2は使用許諾契約の中の一文です。短縮形は使われていません（「do not」）。
 
 **例2**
 
@@ -29,7 +29,7 @@ last_update:
 >
 > （引用元：[Android Developers](https://developer.android.com/studio/terms)、2023-03-01閲覧）
 
-同じドキュメント内で、短縮する形としない形が混在しないようにしましょう。例えば「can't」と「cannot」はどちらかに統一します。
+同じドキュメント内で、短縮する形としない形が混在しないようにしましょう。例えば「can't」と「cannot」はどちらか一方を使います。
 
 ## 関連資料
 

@@ -55,7 +55,7 @@ last_update:
 
 ## 主要ITスタイルガイド間の相違
 
-Googleでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoftでは、範囲（およびマイナス記号）を示すのにenダッシュを使用するとしています。
+Googleでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoftでは、範囲（およびマイナス記号）を示すのに[enダッシュ](../punctuation-symbol/dashes.md#enダッシュを使う場面)を使用するとしています。
 
 前述のように、本スタイルガイドでは範囲にハイフンを使用します。
 
@@ -64,5 +64,5 @@ Googleでは、範囲を示すのにハイフンを使用するとしていま�
 - Google developer documentation style guide
     - [Hyphens](https://developers.google.com/style/hyphens)
 - Microsoft Style Guide
-    - [Dashes and hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/dashes-hyphens/)
-    - [Hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/dashes-hyphens/hyphens)
+    - [Dashes and hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/)
+    - [Hyphens](https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens)

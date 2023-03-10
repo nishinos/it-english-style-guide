@@ -49,6 +49,6 @@ last_update:
 - Google developer documentation style guide
     - [Semicolons](https://developers.google.com/style/semicolons)
 - Microsoft Style Guide
-    - [Semicolons](https://learn.microsoft.com/en-us/style-guide/punctuation-symbol/semicolons)
+    - [Semicolons](https://learn.microsoft.com/en-us/style-guide/punctuation/semicolons)
 - Red Hat Technical Writing Style Guide
     - [2.8.1. Colons and Semicolons](https://stylepedia.net/style/6.0/#colons-and-semicolons)

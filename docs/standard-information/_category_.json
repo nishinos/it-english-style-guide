@@ -1,8 +1,8 @@
 {
-  "label": "定型情報",
+  "label": "C. 定型情報",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "日付や数など定型情報の説明です。"
+    "description": "日付や数など定型情報の書き方です。"
   }
 }
