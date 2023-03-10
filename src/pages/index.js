@@ -44,7 +44,7 @@ export default function Home() {
           paddingLeft: '2rem',
           paddingRight: '2rem',
         }}>
-          <p>本スタイルガイドは「プログラミング英語検定」のウェブサイト上で提供されています。</p>
+          <p>本スタイルガイドは「<a href="https://progeigo.org/" target="_blank">プログラミング英語検定</a>」のウェブサイト上で提供されています。</p>
         </div>
       </main>
     </Layout>
