@@ -99,14 +99,9 @@ const config = {
             title: 'リンク',
             items: [
               {
-                label: 'GitHubページ',
+                label: 'GitHub',
                 href: 'https://github.com/nishinos/it-english-style-guide',
               },
-            ],
-          },
-          {
-            title: 'ソーシャル',
-            items: [
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/progeigo',
@@ -117,7 +112,6 @@ const config = {
               },
             ],
           },
-
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Globalization Design Institute, LLC`,
       },

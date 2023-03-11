@@ -2,7 +2,7 @@
 
 ![](static/img/social-card.jpg)
 
-The IT English Style Guide is an English style guide for Japanese natives. This style guide is intended to be used by IT professionals a set of writing standards when they write IT-related documents.
+The IT English Style Guide is an English style guide for Japanese natives. This style guide is intended to be used by IT professionals as a set of writing standards when they write IT-related documents.
 
 「IT英語スタイルガイド」は、日本語ネイティブ向けの英語スタイルガイドです。ITプロフェッショナルが英語ドキュメントを書く際に、表記基準として参照してもらうことを目的としています。
 
@@ -20,7 +20,7 @@ For corrections and proposals about the content, create an issue at GitHub or se
 
 ## License
 
-The content (under `docs` directory) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). If you need other license, contact the copyright owner.
+The content (under `docs` directory) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). If you need other licenses, contact the copyright owner.
 
 本コンテンツ（`docs`ディレクトリー下）は、[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)ライセンスで提供されています。他のライセンスが必要な場合、著作権者にご連絡ください。
 

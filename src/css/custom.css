@@ -28,3 +28,26 @@
   --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+@font-face {
+  font-family: 'RocknRoll One', sans-serif;
+  font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+}
+
+.hero__title {
+  font-family: 'RocknRoll One', sans-serif;
+  letter-spacing: 0.2rem;
+}
+
+.hero__subtitle {
+  letter-spacing: 0.075rem;
+}
+
+.navbar__title {
+  font-family: 'RocknRoll One', sans-serif;
+  font-size: 1.15rem;
+  letter-spacing: 0.075rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
