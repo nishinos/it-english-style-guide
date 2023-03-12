@@ -29,11 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-@font-face {
-  font-family: 'RocknRoll One', sans-serif;
-  font-display: swap;
-  src: url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
-}
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
 
 .hero__title {
   font-family: 'RocknRoll One', sans-serif;
