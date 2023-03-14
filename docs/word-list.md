@@ -196,7 +196,7 @@ above、below、laterの項目も参照してください。
 
 ### email（✕ e-mail）
 
-「email」とハイフンありの1語とします。「e〜」は、emailを除いてハイフンを付ける形とします。
+「email」とハイフンなしの1語とします。「e〜」は、emailを除いてハイフンを付ける形とします。
 
 ### enable、enabled
 
