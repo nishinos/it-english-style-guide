@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2023-03-08
+  date: 2023-03-24
   author: 西野 竜太郎
 ---
 
@@ -87,7 +87,7 @@ last_update:
 可能であれば、分数は小数を使って書きます。分数として書く場合はスラッシュは使わず、ハイフンを使ってスペルアウトします。
 
 - one-third（1/3としない）
-- three-fifths（2/5としない）
+- three-fifths（3/5としない）
 
 ## パーセンテージ
 
