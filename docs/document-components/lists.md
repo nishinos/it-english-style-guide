@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2023-03-08
+  date: 2023-08-21
   author: 西野 竜太郎
 ---
 
@@ -61,7 +61,11 @@ last_update:
 
 ### 項目内の見出し
 
-中黒リストでは、項目内に見出し（追い込み見出し）を置けます。例3の「Range selection:」のような見出しです。見出しと内容はコロンまたはピリオドで区切ります。
+中黒リストでは、項目内に見出し（追い込み見出し）を置けます。例3の「Range selection:」のような見出しです。見出しと内容は、「コロン」または「ピリオド」で区切ります。
+
+#### コロンで区切る場合
+
+見出しが動詞を含まない（語や句など）場合、コロンで区切ります。
 
 **例3**
 
@@ -72,17 +76,20 @@ last_update:
 > 
 > （引用元：[Google Developers](https://developers.google.com/apps-script/guides/slides/selecting)、2023-02-13閲覧）
 
+#### ピリオドで区切る場合
+
+見出しが動詞を含む（文など）場合、ピリオドで区切ります。
+
 **例4**
 
-> The left nav of the dashboard divides these projects into the following categories:
+> The following documentation can help you learn more:
 > 
-> - **Starred Projects**. Projects that you are monitoring.
-> - **My Projects**. Projects for which you are an owner.
-> - **All Projects**. Projects which you own or have view or edit permissions for.
-> - **Shared with me**. Projects that you do not own but that have been shared with you.
-> - **Trash**. Projects that you have removed from Google Drive.
+> - **Build a Google Workspace Add-on with conference solutions.** Build conference add-ons provides an overview of the steps required to build a Google Workspace Add-on that implements third-party conference solutions.
+> - **Get a closer look.** View the source code of a conferencing Google Workspace Add-on example.
+> - **Learn more about what Apps Script can do.** Review the Google Apps Script documentation.
+> - **Wondering what other developers have built?** Visit the Google Workspace Marketplace for Google Calendar.
 > 
-> （引用元：[Google Developers](https://developers.google.com/apps-script/guides/dashboard)、2023-02-15閲覧）
+> （引用元：[Google Developers](https://developers.google.com/apps-script/add-ons/calendar/conferencing/overview)、2023-08-21閲覧）
 
 ## 導入文の書き方
 

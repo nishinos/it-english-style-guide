@@ -1,11 +1,29 @@
 ---
 sidebar_position: 7
 last_update:
-  date: 2023-03-24
+  date: 2023-08-21
   author: 西野 竜太郎
 ---
 
 # 変更履歴
+
+## 2023-08-21
+
+### Googleスタイルガイドの更新を受けた修正
+
+Googleスタイルガイドの[2023-06-15の更新](https://developers.google.com/style/whats-new#june-15,-2023)を受けて、本スタイルガイドも一部修正しました。
+
+- 「A. ドキュメント要素」の「リスト」ページの「項目内の見出し」（[リンク](../docs/document-components/lists#項目内の見出し)）
+  - 見出しと内容は「コロン」または「ピリオド」で区切る旨を明示し、「コロンで区切る場合」と「ピリオドで区切る場合」という下位見出しを追加した上で、後者に対応する例4を入れ替えました。
+- 「B. 句読点と記号」の「感嘆符（!）」の「関連資料」（[リンク](../docs/punctuation-symbol/exclamation-points#関連資料)）
+  - Googleスタイルガイドのリンク先を「Periods and other end punctuation」に変更しました。
+- 「E. 注意する言葉」の「etc.」（[リンク](../docs/word-list#etc)）
+  - 「etc.」と同様、「and so forth」と「and so on」もできるだけ使用を避けるとしました。
+
+### その他の修正
+
+- 「D. 分野特有の書き方」の「UI要素」ページの「連続操作の書式」（[リンク](../docs/it-specific-writing/ui-elements#連続操作の書式)）
+  - 「>」記号の説明を「山かっこ」としていましたが、「大なり記号」に変更しました。
 
 ## 2023-03-24
 

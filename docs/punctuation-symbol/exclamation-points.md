@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 last_update:
-  date: 2023-03-08
+  date: 2023-08-21
   author: 西野 竜太郎
 ---
 
@@ -22,7 +22,7 @@ last_update:
 ## 関連資料
 
 - Google developer documentation style guide
-    - [Exclamation points](https://developers.google.com/style/exclamation-points)
+    - [Periods and other end punctuation](https://developers.google.com/style/periods)
 - Microsoft Style Guide
     - [Exclamation points](https://learn.microsoft.com/en-us/style-guide/punctuation/exclamation-points)
 - Red Hat Technical Writing Style Guide

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 last_update:
-  date: 2023-03-14
+  date: 2023-08-21
   author: 西野 竜太郎
 ---
 
@@ -208,7 +208,7 @@ disableの項目も参照してください。
 
 ### etc.
 
-できるだけ使用は避けます。代わりに「and so forth」、「and so on」、「including」、「like」、「such as」といった表現を使います。
+できるだけ使用は避けます。「and so forth」と「and so on」も同様にできるだけ使用は避けます。具体例を挙げる際は「including」、「like」、または「such as」を使うようにします。
 
 ### execute
 
