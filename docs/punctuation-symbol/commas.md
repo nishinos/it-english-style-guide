@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 last_update:
-  date: 2023-03-08
+  date: 2024-05-08
   author: 西野 竜太郎
 ---
 
@@ -73,9 +73,9 @@ last_update:
 
 例2の「By default,」も文頭に置かれた副詞句の例です。
 
-### 非制限用法のwhichの前
+### 非制限用法の関係詞の前
 
-非制限用法のwhichは、情報を補足するのに用いられます。非制限用法ではwhichの前にカンマを置きます。
+非制限用法の関係詞（例：which、who、where、when）は、情報を補足するのに用いられます。非制限用法では関係詞の前にカンマを置きます。
 
 **例7**
 
@@ -85,7 +85,7 @@ last_update:
 
 ### その他
 
-カンマは数字の桁区切りや日付にも用いられます。詳しくは[数](../standard-information/numbers.md#桁区切りと小数点)と[日付](../standard-information/dates-times.md)の項目をご覧ください。
+カンマは数字の桁区切りや日付にも用いられます。詳しくは[数](../standard-information/numbers.md#桁区切りと小数点)と[日付](../standard-information/dates-times)の項目をご覧ください。
 
 ## 関連資料
 

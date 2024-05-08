@@ -1,11 +1,27 @@
 ---
 sidebar_position: 7
 last_update:
-  date: 2023-08-21
+  date: 2024-05-08
   author: 西野 竜太郎
 ---
 
 # 変更履歴
+
+## 2024-05-08
+
+### Googleスタイルガイドの更新を受けた修正
+
+Googleスタイルガイドの[2024-01-22の更新](https://developers.google.com/style/whats-new#january-22,-2024)および[2023-10-24の更新](https://developers.google.com/style/whats-new#october-24,-2023)を受けて、本スタイルガイドを一部修正しました。
+
+- 「E. 注意する言葉」の「and/or」（[リンク](../docs/word-list#andor)）
+  - 表などでスペースが限られている場合を除き、使用はできるだけ避けるとしました。
+- 「E. 注意する言葉」の「open source」
+  - Googleスタイルガイドで削除されたため、本スタイルガイドでも削除しました。
+
+### その他の修正
+
+- 「B. 句読点と記号」の「カンマ（,）」の「非制限用法の関係詞の前」（[リンク](../docs/punctuation-symbol/commas#非制限用法の関係詞の前)）
+  - 「非制限用法のwhich」としていましたが、which以外の関係詞にも非制限用法があるため、説明を修正しました。
 
 ## 2023-08-21
 

@@ -86,7 +86,7 @@ last_update:
 >
 > （引用元：[Android Developers](https://developer.android.com/studio/run/emulator-console)、2023-02-27閲覧）
 
-さらに、例8では「<password from previous step\>」と、単語を小文字で書いてスペースで区切り、山かっこで囲っています。
+さらに、例8では「\<password from previous step\>」と、単語を小文字で書いてスペースで区切り、山かっこで囲っています。
 
 **例8**
 

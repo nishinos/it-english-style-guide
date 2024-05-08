@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 last_update:
-  date: 2023-08-21
+  date: 2024-05-08
   author: 西野 竜太郎
 ---
 
@@ -36,11 +36,11 @@ below、earlier、laterの項目も参照してください。
 
 ### allow
 
-「<製品名や機能名> allows you to <動詞>」という無生物主語の構文ではなく、できるだけ「You can <動詞>」の構文を使います。
+「\<製品名や機能名\> allows you to \<動詞\>」という無生物主語の構文ではなく、できるだけ「You can \<動詞\>」の構文を使います。
 
 ### and/or
 
-できるだけ避けます。内容に応じて、andやorのみ、「A or B, or both」のような表現を使います。
+表などでスペースが限られている場合を除き、使用はできるだけ避けます。内容に応じて、andやorのみ、「A or B, or both」のような表現を使います。
 
 ### appendixes（✕ appendices）
 
@@ -104,7 +104,7 @@ checkboxの項目も参照してください。
 
 ### click
 
-マウス操作に限って他動詞として使います。「click on <物>」という表現は使いません。マウス操作でなければ、文脈に応じてselectやtapといった動詞を使います。
+マウス操作に限って他動詞として使います。「click on \<物\>」という表現は使いません。マウス操作でなければ、文脈に応じてselectやtapといった動詞を使います。
 
 また、左クリック、右クリック、ダブルクリックという動詞はleft-click、right-click、double-clickとハイフンありの1語とします。
 
@@ -202,7 +202,7 @@ above、below、laterの項目も参照してください。
 
 UI操作が関連する場面で、動詞enableや形容詞enabledは使えます。しかし一般ユーザー向けでもっと文脈に合う表現があれば書き換えます。例えば、動詞なら「turn on」、形容詞なら「available」、「selected」といった言葉です。
 
-また、「<製品名や機能名> enables you to <動詞>」という無生物主語の構文ではなく、できるだけ「You can <動詞>」の構文を使います。
+また、「\<製品名や機能名\> enables you to \<動詞\>」という無生物主語の構文ではなく、できるだけ「You can \<動詞\>」の構文を使います。
 
 disableの項目も参照してください。
 
@@ -335,10 +335,6 @@ matrixの複数形はmatrixesとmatricesの2つがありますが、「matrixes�
 ### online（✕ on-line）
 
 「online」とハイフンなしの1語とします。
-
-### ⁠open source（✕ open-source）
-
-「open source」と2語とします。ただしMicrosoftでは名詞を修飾する形容詞の場合に「open-source」とハイフンありの1語としています。
 
 ## P
 
