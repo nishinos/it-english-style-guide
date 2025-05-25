@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 last_update:
-  date: 2023-03-08
+  date: 2025-05-25
   author: 西野 竜太郎
 ---
 
@@ -55,7 +55,7 @@ last_update:
 
 ## 主要ITスタイルガイド間の相違
 
-Googleでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoftでは、範囲（およびマイナス記号）を示すのに[enダッシュ](../punctuation-symbol/dashes.md#enダッシュを使う場面)を使用するとしています。
+Googleでは、範囲を示すのにハイフンを使用するとしています。一方、Microsoftでは、範囲を示すのに[enダッシュ](../punctuation-symbol/dashes.md#enダッシュを使う場面)を使用するとしています。
 
 前述のように、本スタイルガイドでは範囲にハイフンを使用します。
 

@@ -26,4 +26,4 @@ last_update:
 - Microsoft Style Guide
     - [Exclamation points](https://learn.microsoft.com/en-us/style-guide/punctuation/exclamation-points)
 - Red Hat Technical Writing Style Guide
-    - [⁠2.8.7. Exclamation Points](https://stylepedia.net/style/6.0/#exclamation)
+    - [⁠2.8.7. Exclamation Points](https://stylepedia.net/style/#exclamation)

@@ -22,4 +22,4 @@ last_update:
 - Microsoft Style Guide
     - [ampersand (&)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/ampersand)
 - Red Hat Technical Writing Style Guide
-    - [Chapter 9. A](https://stylepedia.net/style/6.0/#a0-9)
+    - [Chapter 9. A](https://stylepedia.net/style/#a0-9)

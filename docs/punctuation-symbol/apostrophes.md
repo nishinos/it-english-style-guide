@@ -66,5 +66,5 @@ last_update:
     - [Apostrophes](https://learn.microsoft.com/en-us/style-guide/punctuation/apostrophes)
     - [Use contractions](https://learn.microsoft.com/en-us/style-guide/word-choice/use-contractions)
 - Red Hat Technical Writing Style Guide
-    - [⁠2.8.6. Apostrophes](https://stylepedia.net/style/6.0/#apostrophes)
+    - [⁠2.8.6. Apostrophes](https://stylepedia.net/style/#apostrophes)
 

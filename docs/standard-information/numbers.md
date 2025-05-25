@@ -148,6 +148,6 @@ Googleでは数の範囲にハイフン（-）を使うとしている一方、M
     - [Numbers](https://learn.microsoft.com/en-us/style-guide/numbers)
     - [percent, percentage](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage)
 - Red Hat Technical Writing Style Guide
-    - [4.10. Numbers](https://stylepedia.net/style/6.0/#numbers)
+    - [4.10. Numbers](https://stylepedia.net/style/#numbers)
 - Apple Style Guide
     - [Decimals](https://support.apple.com/ja-jp/guide/applestyleguide/apsg1ff68b7e/web)

@@ -121,4 +121,4 @@ GoogleとRed Hatでは、例5のように導入部分と項目が合わさって
 - Microsoft Style Guide
     - [Lists](https://learn.microsoft.com/en-us/style-guide/scannable-content/lists)
 - Red Hat Technical Writing Style Guide
-    - [5.1.1. Using and Formatting Lists](https://stylepedia.net/style/6.0/#Sentence_Structure-Using_Lists_Correctly)
+    - [5.1.1. Using and Formatting Lists](https://stylepedia.net/style/#Sentence_Structure-Using_Lists_Correctly)

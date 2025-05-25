@@ -128,6 +128,6 @@ GoogleやMicrosoftでは、基本的に日付は「September 8, 2022」の形式
     - [Date and time terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
     - [Time and place](https://learn.microsoft.com/en-us/style-guide/global-communications/time-place)
 - Red Hat Technical Writing Style Guide
-    - [4.9. Dates and Times](https://stylepedia.net/style/6.0/#date-time)
+    - [4.9. Dates and Times](https://stylepedia.net/style/#date-time)
 - Apple Style Guide
     - [Dates and times](https://support.apple.com/ja-jp/guide/applestyleguide/apsg1ff687a0/web)

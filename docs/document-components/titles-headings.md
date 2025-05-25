@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2023-03-08
+  date: 2025-05-25
   author: 西野 竜太郎
 ---
 
@@ -18,7 +18,7 @@ last_update:
 
 ## キャピタリゼーション
 
-キャピタリゼーションとは、単語の最初の文字を大文字にするかどうかの規則です。センテンス・スタイルとタイトル・スタイルの2種類があります。
+キャピタリゼーションとは、単語の最初の文字を大文字にするかどうかの規則です。センテンス・スタイルとタイトル・スタイルの2種類があります。前者はセンテンス・ケース、後者はタイトル・ケースと呼ばれることもあります。
 
 通常、タイトルと見出しでは「センテンス・スタイル」を用います。センテンスと呼ばれますが、文ではないので末尾にピリオドは付けません。
 
@@ -102,4 +102,4 @@ GoogleとMicrosoftでは、タイトルや見出しに「センテンス・ス�
     - [Formatting titles](https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles)
     - [Capitalization](https://learn.microsoft.com/en-us/style-guide/capitalization)
 - Red Hat Technical Writing Style Guide
-    - [⁠3.2. Heading Styles](https://stylepedia.net/style/6.0/#heading-styles)
+    - [⁠3.2. Heading Styles](https://stylepedia.net/style/#heading-styles)

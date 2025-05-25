@@ -52,4 +52,4 @@ Googleでは、Note、Caution、Warningの他に「Success」も定義してい�
 - Google developer documentation style guide
     - [Notes, cautions, warnings, and other notices](https://developers.google.com/style/notices)
 - Red Hat Technical Writing Style Guide
-    - [3.10. Using Admonitions](https://stylepedia.net/style/6.0/#admonitions)
+    - [3.10. Using Admonitions](https://stylepedia.net/style/#admonitions)

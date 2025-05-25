@@ -118,4 +118,4 @@ UIの操作に用いられる動詞がいくつかあります。
 - Google developer documentation style guide
     - [UI elements and interaction](https://developers.google.com/style/ui-elements)
 - Red Hat Technical Writing Style Guide
-    - [3.4. Documenting the User Interface](https://stylepedia.net/style/6.0/#gui-elements-punctuation)
+    - [3.4. Documenting the User Interface](https://stylepedia.net/style/#gui-elements-punctuation)

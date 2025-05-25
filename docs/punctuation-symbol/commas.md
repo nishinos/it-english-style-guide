@@ -94,4 +94,4 @@ last_update:
 - Microsoft Style Guide
     - [Commas](https://learn.microsoft.com/en-us/style-guide/punctuation/commas)
 - Red Hat Technical Writing Style Guide
-    - [⁠2.8.2. Commas](https://stylepedia.net/style/6.0/#commas)
+    - [⁠2.8.2. Commas](https://stylepedia.net/style/#commas)

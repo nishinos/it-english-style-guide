@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 last_update:
-  date: 2024-05-08
+  date: 2025-05-25
   author: 西野 竜太郎
 ---
 
@@ -10,6 +10,8 @@ last_update:
 注意して使う言葉や表記で迷いがちな言葉を取り上げています。
 
 大手ITスタイルガイド（Google、Microsoft、Red Hat、Apple）との違いがある場合、その旨を記載しています。
+
+なお、GoogleとMicrosoftはスペルを参照する辞書として「[Merriam-Webster](https://www.merriam-webster.com)」を挙げています。スペルで迷う際は参照してみてください。
 
 :::info ポイントまとめ
 
@@ -101,6 +103,10 @@ checkboxの項目も参照してください。
 ### checkbox（✕ check box）
 
 「checkbox」と1語で表記します。なお、checkboxの選択と選択解除に関する動詞として、GoogleとMicrosoftは「select」と「clear」、Appleは「select」と「deselect」を使うとしています。
+
+### choose
+
+「選ぶ」という動詞にはselectやchooseがあります。selectはチェックボックスの選択など、やや限定的な状況で使う一方で、chooseは一般的な「選ぶ」を指す状況で使えます。特にselectを使うケースについては、selectの項目を参照してください。
 
 ### click
 
@@ -398,9 +404,15 @@ rightで位置を示す言葉がいくつかあります。右上は「upper rig
 
 「scroll bar」と2語とします。ただしRed Hatではscrollbarと1語としています。
 
+### see
+
+リンク先などを「参照してください」と表現する場合に使えます。ただしRed Hatでは「refer to」を使うとしています。
+
 ### select
 
-「チェックボックスにチェックマークを入れる」という動詞としては、checkではなくselectを使います。また、テキストを選択してハイライト表示にする場合もselectを使います。
+複数の選択肢の中から選択する場合や、テキストを選択してハイライト表示にする場合にselectを使います。また、「チェックボックスにチェックマークを入れる」という動詞として、checkではなくselectを使います。
+
+類義語のchooseの項目も参照してください。
 
 ### ⁠set up、setup
 

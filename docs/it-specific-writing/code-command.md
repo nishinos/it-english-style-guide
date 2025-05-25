@@ -104,6 +104,6 @@ last_update:
 - Microsoft Style Guide
     - [Code examples](https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples)
 - Red Hat Technical Writing Style Guide
-    - [3.4.4. Documenting Command Terminology and Syntax](https://stylepedia.net/style/6.0/#documenting-command-syntax)
+    - [3.4.4. Documenting Command Terminology and Syntax](https://stylepedia.net/style/#documenting-command-syntax)
 - Apple Style Guide
     - [Intro to technical notation](https://support.apple.com/ja-jp/guide/applestyleguide/apsgf72184e0/web)

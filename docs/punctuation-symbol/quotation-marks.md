@@ -120,4 +120,4 @@ last_update:
 - Microsoft Style Guide
     - [Quotation marks](https://learn.microsoft.com/en-us/style-guide/punctuation/quotation-marks)
 - Red Hat Technical Writing Style Guide
-    - [2.8.5. Quotation Marks](https://stylepedia.net/style/6.0/#quotation-marks)
+    - [2.8.5. Quotation Marks](https://stylepedia.net/style/#quotation-marks)

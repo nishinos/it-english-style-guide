@@ -79,4 +79,4 @@ last_update:
 - Microsoft Style Guide
     - [Colons](https://learn.microsoft.com/en-us/style-guide/punctuation/colons)
 - Red Hat Technical Writing Style Guide
-    - [2.8.1. Colons and Semicolons](https://stylepedia.net/style/6.0/#colons-and-semicolons)
+    - [2.8.1. Colons and Semicolons](https://stylepedia.net/style/#colons-and-semicolons)

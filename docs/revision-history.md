@@ -1,11 +1,41 @@
 ---
 sidebar_position: 7
 last_update:
-  date: 2024-05-08
+  date: 2025-05-25
   author: 西野 竜太郎
 ---
 
 # 変更履歴
+
+## 2025-05-25
+
+### Googleスタイルガイドの更新を受けた修正
+
+Googleスタイルガイドの[2025-05-08の更新](https://developers.google.com/style/whats-new?hl=en#may-8,-2025)を受けて、本スタイルガイドを一部修正しました。
+
+- 「E. 注意する言葉」の「choose」（[リンク](../docs/word-list#choose)）
+  - 一般的な「選ぶ」という意味でchooseを使えるとしました。
+
+### Microsoftスタイルガイドの更新を受けた修正
+
+Microsoftスタイルガイドの[2025-04-11の更新](https://learn.microsoft.com/en-us/style-guide/welcome/whats-new)を受けて、本スタイルガイドを一部修正しました。
+
+- 「B. 句読点と記号」の「ダッシュ（—、–）」（[リンク](../docs/punctuation-symbol/dashes)）および「ハイフン（-）」（[リンク](../docs/punctuation-symbol/hyphens)）の「主要ITスタイルガイド間の相違」
+  - マイナス記号の代わりにenダッシュを使うとしていましたが、そのままマイナス記号を使うと変更されたため、本スタイルガイド内の説明も変更しました。
+
+### Red Hatスタイルガイドの更新を受けた修正
+
+Red Hatスタイルガイドの[Release 6.2](https://stylepedia.net/style/#new)を受けて、本スタイルガイドを一部修正しました。
+
+- 「E. 注意する言葉」の「see」（[リンク](../docs/word-list#see)）
+  - リンク先などを「参照してください」と表現する際に「see」ではなく「refer to」を使うとしたため、本スタイルガイドでもseeの見出しを追加して解説を加えました。
+
+### その他の修正
+
+- 「タイトルと見出し」の「キャピタリゼーション」（[リンク](../docs/document-components/titles-headings#キャピタリゼーション)）
+  - センテンス・スタイルは「センテンス・ケース」、タイトル・スタイルは「タイトル・ケース」とも呼ばれる旨を追記しました。
+- 「E. 注意する言葉」（[リンク](../docs/word-list)）の冒頭
+- GoogleとMicrosoftはスペルを参照する辞書として「[Merriam-Webster](https://www.merriam-webster.com)」を挙げているため、本スタイルガイドでも補足情報として加えました。
 
 ## 2024-05-08
 

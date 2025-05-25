@@ -46,4 +46,4 @@ last_update:
 - Microsoft Style Guide
     - [(s), (es)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/s-es)
 - Red Hat Technical Writing Style Guide
-    - [2.8.3. Parentheses](https://stylepedia.net/style/6.0/#parentheses)
+    - [2.8.3. Parentheses](https://stylepedia.net/style/#parentheses)

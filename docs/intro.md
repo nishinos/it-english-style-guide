@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 last_update:
-  date: 2024-05-08
+  date: 2025-05-25
   author: 西野 竜太郎
 ---
 
@@ -32,7 +32,7 @@ last_update:
 
 - [Google developer documentation style guide](https://developers.google.com/style/?hl=en)
 - [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
-- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.0/)
+- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 - [Apple Style Guide](https://support.apple.com/ja-jp/guide/applestyleguide/welcome/1.0/web)
 
 ## ライセンス

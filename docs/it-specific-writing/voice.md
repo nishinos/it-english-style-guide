@@ -42,4 +42,4 @@ last_update:
 - Microsoft Style Guide
     - [Active and passive voice](https://learn.microsoft.com/en-us/style-guide/grammar/verbs#active-and-passive-voice)
 - Red Hat Technical Writing Style Guide
-    - [2.1. Active Voice](https://stylepedia.net/style/6.0/#active-voice)
+    - [2.1. Active Voice](https://stylepedia.net/style/#active-voice)
