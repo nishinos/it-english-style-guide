@@ -57,7 +57,6 @@ last_update:
     - 『アプリケーションをつくる英語』（2012年、[達人出版会](https://tatsu-zine.com/books/english4app)／[インプレス](https://book.impress.co.jp/books/3284)）
 - リンク
     - [ウェブサイト](https://nishinos.com/)
-    - [Twitter](https://twitter.com/nishinos)
 
 ### 著作権者
 
