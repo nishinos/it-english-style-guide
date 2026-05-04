@@ -15,7 +15,7 @@ Googleスタイルガイドの[2026-04-07の更新](https://developers.google.co
 
 - 「D. 分野特有の書き方」の「手順と指示」の「導入文の書き方」（[リンク](../docs/it-specific-writing/procedures-instructions#導入文の書き方)）
   - 可能な表現例に「do the following」を追加しました。
-- 「E. 注意する言葉」の「AI」（[リンク](../docs/word-list#AI)）
+- 「E. 注意する言葉」の「AI」（[リンク](../docs/word-list#ai)）
   - スペルアウトせずに「AI」のみで使えるとしました。
 
 ### Microsoftスタイルガイドの更新を受けた修正
