@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 last_update:
-  date: 2025-05-25
+  date: 2026-05-05
   author: 西野 竜太郎
 ---
 
@@ -35,6 +35,10 @@ below、earlier、laterの項目も参照してください。
 ### access
 
 動詞の場合、できればedit、find、see、use、viewといった普段使う言葉にします。
+
+### AI
+
+すでに普及している言葉なので、初出でも「artificial intelligence (AI) 」のようにスペルアウトして表記せず、「AI」のみで使えます。
 
 ### allow
 
@@ -72,7 +76,7 @@ above、earlier、laterの項目も参照してください。
 
 ### blacklist
 
-人種的偏見が助長される恐れがあるとされるため、使用しません。言い換えとしては「blocklist」や「denylist」があります。なおAppleでは「block list」や「deny list」と2語としています。
+人種的偏見が助長される恐れがあるとされるため、使用しません。言い換えとして、Googleでは1語の「blocklist」や「denylist」、Appleでは2語の「block list」や「deny list」、Microsoftでは2語の「block list」を挙げています。
 
 graylistとwhitelistの項目も参照してください。
 
@@ -302,7 +306,13 @@ leftで位置を示す言葉がいくつかあります。左上は「upper left
 
 動詞の場合は「log in」と2語、名詞または形容詞の場合は「login」と1語とします。なお「〜にログインする」は「log in to 〜」と3語になるので注意してください。
 
-「sign in」に言い換えても問題なければ、sign inを優先して使います。
+sign inの項目も参照してください。
+
+### log out、logout
+
+動詞の場合は「log out」と2語、名詞または形容詞の場合は「logout」と1語とします。「〜からログアウトする」は「log out of 〜」（前置詞はfromにしない）を使います。
+
+sign outの項目も参照してください。
 
 ### lower
 
@@ -352,9 +362,9 @@ matrixの複数形はmatrixesとmatricesの2つがありますが、「matrixes�
 
 操作手順などの指示文ではpleaseを使いません。「[指示の書き方](../docs/it-specific-writing/procedures-instructions.md#指示の書き方)」の項目も参照してください。
 
-### plug-in（✕ plugin）
+### plugin（✕ plug-in）
 
-「plug-in」とハイフンありの1語とします。ただしGoogleでは「plugin」とハイフンなしの1語としています。
+名詞の場合、「plugin」とハイフンなしの1語とします。ただしAppleでは「plug-in」とハイフンありの1語としています。
 
 ### pop-up（✕ popup）
 
@@ -430,9 +440,13 @@ rightで位置を示す言葉がいくつかあります。右上は「upper rig
 
 動詞の場合は「sign in」と2語、名詞または形容詞の場合は「sign-in」とハイフンありの1語とします。なお「〜にサインインする」は「sign in to 〜」と3語になるので注意してください。
 
+「log in」との使い分けは悩ましい部分です。Googleでは「log in」より「sign in」を優先する、Microsoftでは「log in」を使わず「sign in」を使うとしています。また、Appleではインターネット・アカウントの場合に「sign in」、コンピューター・システムの場合に「log in」を使うとしています。さらにRed HatではLinuxベースのシステムの場合に「log in」を使うとしています。
+
 ### sign out、sign-out
 
 動詞の場合は「sign out」と2語、名詞または形容詞の場合は「sign-out」とハイフンありの1語とします。
+
+「log out」との使い分けについては、「sign in」の説明を参考にしてください。
 
 ### ⁠since、because
 
@@ -516,7 +530,7 @@ whileという接続詞には「〜している間に」という同時の意味
 
 ### whitelist
 
-人種的偏見が助長される恐れがあるとされるため、使用しません。言い換えとしては「allowlist」があります。ただしAppleでは「allow list」と2語としています。
+人種的偏見が助長される恐れがあるとされるため、使用しません。言い換えとして、Googleでは1語の「allowlist」、AppleやMicrosoftでは2語の「allow list」を挙げています。
 
 blacklistとgraylistの項目も参照してください。
 

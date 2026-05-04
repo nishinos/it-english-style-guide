@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 last_update:
-  date: 2023-03-08
+  date: 2026-05-05
   author: 西野 竜太郎
 ---
 
@@ -79,7 +79,7 @@ last_update:
 
 ## 導入文の書き方
 
-手順が何であるのか読者が把握しやすくなるように、手順リストの前に導入文を記述します。例1にある「To embed a web app into a new Sites page, follow these steps:」のような文です。
+手順が何であるのか読者が把握しやすくなるように、手順リストの前に導入文を記述します。例1にある「To embed a web app into a new Sites page, follow these steps:」のような文です。他にもfollowingを使って「To ..., do the following:」といった表現も可能です。
 
 ただし、例5のように見出しで手順の内容が分かるようであれば導入文は不要です。
 

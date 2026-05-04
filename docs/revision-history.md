@@ -1,11 +1,42 @@
 ---
 sidebar_position: 7
 last_update:
-  date: 2025-05-25
+  date: 2026-05-05
   author: 西野 竜太郎
 ---
 
 # 変更履歴
+
+## 2026-05-05
+
+### Googleスタイルガイドの更新を受けた修正
+
+Googleスタイルガイドの[2026-04-07の更新](https://developers.google.com/style/whats-new#april-7,-2026)を受けて、本スタイルガイドを一部修正しました。
+
+- 「D. 分野特有の書き方」の「手順と指示」の「導入文の書き方」（[リンク](../docs/it-specific-writing/procedures-instructions#導入文の書き方)）
+  - 可能な表現例に「do the following」を追加しました。
+- 「E. 注意する言葉」の「AI」（[リンク](../docs/word-list#AI)）
+  - スペルアウトせずに「AI」のみで使えるとしました。
+
+### Microsoftスタイルガイドの更新を受けた修正
+
+Microsoftスタイルガイドの[2025-04-28〜2026-04-02の更新](https://learn.microsoft.com/en-us/style-guide/welcome/whats-new)を受けて、本スタイルガイドを一部修正しました。
+
+- 「E. 注意する言葉」の「blacklist」（[リンク](../docs/word-list#blacklist)）
+  - 代替表現である「block list」を2語で書く点を追記しました。
+- 「E. 注意する言葉」の「whitelist」（[リンク](../docs/word-list#whitelist)）
+  - 代替表現である「allow list」を2語で書く点を追記しました。
+- 「D. 分野特有の書き方」の「UI要素」の「場所を示す前置詞」（[リンク](../docs/it-specific-writing/ui-elements#場所を示す前置詞)）
+  - GoogleとMicrosoftによる前置詞の使い方をまとめて新しいセクションにしました。
+- 「E. 注意する言葉」の「plugin」（[リンク](../docs/word-list#plugin-plug-in)）
+  - 表記が「plug-in」から「plugin」に変わったため、本スタイルガイドでも「plugin」としました。
+
+### Red Hatスタイルガイドの更新を受けた修正
+
+Red Hatスタイルガイドの[Release 7.1〜7.2の更新](https://stylepedia.net/style/#new)を受けて、本スタイルガイドを一部修正しました。
+
+- 「E. 注意する言葉」の「log out」（[リンク](../docs/word-list#log-outlogout)）
+  - 「log out、logout」の項目を追加し、「〜からログアウトする」の場合は「log out of」（fromではなく）とするとしました。また、併せて「sign in」の項目に使い分けについて説明を記載しました。
 
 ## 2025-05-25
 

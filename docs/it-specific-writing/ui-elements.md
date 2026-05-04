@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2023-08-21
+  date: 2026-05-05
   author: 西野 竜太郎
 ---
 
@@ -13,6 +13,7 @@ last_update:
 
 - UI要素はボールドで書き、二重引用符では囲まない
 - 連続操作は「>」で示す
+- UIの操作で用いられる動詞やUIの場所を示す前置詞がある
 
 :::
 
@@ -56,20 +57,11 @@ UI要素名のみだと読者にとって分かりにくいと思われる場合
 
 一般名詞を付記した場合、「the Confirm dialog」のように定冠詞theが付く点に注意してください。
 
-なお、例3と例4では、場所を示すのに前置詞のinとonが使われています。この使い分けについてGoogleでは次のように説明しています。
-
-- in
-    - dialog、field、list、menu、pane、window
-- on
-    - page、tab、toolbar
-
-（参考：[Prepositions](https://developers.google.com/style/ui-elements#prepositions)、2023-02-27閲覧）
-
 ## 連続操作の書式
 
 UIで何かを選択した後、すぐに別の何かを選択する連続操作を記述する際は「>」（大なり記号）を使います。前後のUI要素とまとめて「>」もボールドにします。
 
-**例3**
+**例5**
 
 > On Windows or Linux, select **File > Settings** from the menu.
 >
@@ -79,13 +71,13 @@ UIで何かを選択した後、すぐに別の何かを選択する連続操作
 
 キーボードのキーを組み合わせて押す場合、「Control+C」のようにプラス記号でつないで記述します。
 
-**例4**
+**例6**
 
 > After about 30 seconds, press Control+C to stop watching the node pools.
 >
 > （引用元：[Google Cloud](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning)、2023-02-27閲覧）
 
-**例5**
+**例7**
 
 > Alt+Insert
 
@@ -113,9 +105,21 @@ UIの操作に用いられる動詞がいくつかあります。
     - type（キーボードで）
 - 有効にする：enable
 
+## 場所を示す前置詞
+
+UI上で場所を示す際に前置詞が用いられます。例えば、上記の例3では「In the **Confirm** dialog, ...」と例4では「On the **Phone and Tablet** tab, ...」と、inとonが使われています。この使い分けについてGoogleやMicrosoftでは次のように説明しています。
+
+- in
+    - dialog、list、menu（Googleの場合）、pane、window
+- on
+    - menu（Microsoftの場合）、page、tab、toolbar
+
 ## 関連資料
 
 - Google developer documentation style guide
     - [UI elements and interaction](https://developers.google.com/style/ui-elements)
+    - [Prepositions](https://developers.google.com/style/ui-elements#prepositions)
+- Microsoft Style Guide
+    - [Prepositions with UI elements](https://learn.microsoft.com/en-us/style-guide/grammar/prepositions#prepositions-with-ui-elements)
 - Red Hat Technical Writing Style Guide
     - [3.4. Documenting the User Interface](https://stylepedia.net/style/#gui-elements-punctuation)
